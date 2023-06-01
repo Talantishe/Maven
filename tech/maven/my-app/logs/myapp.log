@@ -1,0 +1,32 @@
+info message
+In debug message
+error message: Null!!!
+fatal error message: Null!!!
+info message
+In debug message
+error message: Null!!!
+fatal error message: Null!!!
+info message
+In debug message
+error message: Null!!!
+fatal error message: Null!!!
+info message
+In debug message
+error message: Null!!!
+fatal error message: Null!!!
+2023-05-05 09:02:30.444 [main] INFO   - info message
+2023-05-05 09:02:30.468 [main] DEBUG  - In debug message
+2023-05-05 09:02:30.469 [main] ERROR  - error message: Null!!!
+2023-05-05 09:02:30.470 [main] FATAL  - fatal error message: Null!!!
+2023-05-05 09:03:18.072 [main] INFO   - info message
+2023-05-05 09:03:18.084 [main] DEBUG  - In debug message
+2023-05-05 09:03:18.085 [main] ERROR  - error message: Null!!!
+2023-05-05 09:03:18.086 [main] FATAL  - fatal error message: Null!!!
+2023-05-05 09:04:48.990 [main] INFO   - info message
+2023-05-05 09:04:49.001 [main] DEBUG  - In debug message
+2023-05-05 09:04:49.002 [main] ERROR  - error message: Null!!!
+2023-05-05 09:04:49.003 [main] FATAL  - fatal error message: Null!!!
+2023-05-05 09:04:53.187 [main] INFO   - info message
+2023-05-05 09:04:53.194 [main] DEBUG  - In debug message
+2023-05-05 09:04:53.195 [main] ERROR  - error message: Null!!!
+2023-05-05 09:04:53.196 [main] FATAL  - fatal error message: Null!!!
